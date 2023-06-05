@@ -1,10 +1,7 @@
-👏 Journal Club
+#👏 Journal Club
 
 ---
-[TOC]
-
----
-# 试运行一下
+# 试运行一下，大家来捧场~
 
 ## 1. Tumor Immunity
 
