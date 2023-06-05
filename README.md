@@ -1,4 +1,4 @@
-👏 BioResearch
+👏 Journal Club
 
 ---
 [TOC]
